@@ -2,7 +2,7 @@
 
 该项目仅作为个人备份，带有较强的个性化色彩，仅供参考。
 
-推荐搭配 [karpathy-guidelines](https://github.com/multica-ai/andrej-karpathy-skills) 及 [Superpowers](https://github.com/obra/superpowers) 使用
+推荐搭配 [karpathy-guidelines](https://github.com/multica-ai/andrej-karpathy-skills) 及 [superpowers](https://github.com/obra/superpowers) 使用
 
 ```
 # 全局开发规范
@@ -50,18 +50,12 @@
 
   > 若项目尚无设计源，应先建立最小设计源再实现功能。
 
-## 7. 交付
+## 7. 备份
 
-### Android
+- 每次修改代码后，应使用 Git 提交。
+- 回滚代码时，应使用 Git 复原。
 
-- 每次交付后应编译、安装并在真机上并打开。
-
-## 8. 备份
-
-- 在每次代码修改后，应使用 git 进行提交。
-- 回滚代码时，应使用 git 复原。
-
-## 9. 文件
+## 8. 文件
 
 - 由 agent 生成的文件应分类存放至 `C:\Users\Administrator\ai_workspace` 路径下，另有明确指定存放路径的除外。
 
