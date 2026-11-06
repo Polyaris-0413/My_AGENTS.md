@@ -1,3 +1,9 @@
+# My_AGENTS.md
+
+该项目仅作为个人备份，带有较强的个性化色彩，仅供参考。
+
+推荐搭配 [karpathy-guidelines](https://github.com/multica-ai/andrej-karpathy-skills) 及 [Superpowers](https://github.com/obra/superpowers) 使用
+
 ```
 # 全局开发规范
 
